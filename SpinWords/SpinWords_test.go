@@ -4,7 +4,8 @@
 package spinwords_test
 
 import (
-	. "codewarrior/kata"
+	"SpinWords"
+	"testing"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

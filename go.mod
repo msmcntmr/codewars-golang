@@ -1,4 +1,4 @@
-module github.com/msmcntmr/codewars-golang
+module codewars-golang
 
 go 1.19
 
